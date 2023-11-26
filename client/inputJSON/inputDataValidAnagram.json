@@ -1,0 +1,6 @@
+{
+    "method": "validAnagram",
+    "params": ["aiueo", "oeuia"],
+    "param_types": ["string", "string"],
+    "id": 4
+}

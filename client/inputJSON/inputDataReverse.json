@@ -1,0 +1,6 @@
+{
+    "method": "reverse",
+    "params": "aiueo",
+    "param_types": ["string"],
+    "id": 3
+}

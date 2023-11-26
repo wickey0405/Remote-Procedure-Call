@@ -1,0 +1,6 @@
+{
+    "method": "sort",
+    "params": ["Blue", "Red", "Green", "White", "Black"],
+    "param_types": ["string", "string", "string", "string", "string"],
+    "id": 5
+}
